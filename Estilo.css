@@ -1,0 +1,27 @@
+header {
+   background-color: rgb(94, 185, 3);
+   color: rgb(255, 255, 255);
+   padding: 20px;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+li{
+    
+    margin: 90px;
+    display: inline;
+    text-align: justify;
+  
+}
+p{
+    color: rgb(255, 0, 119);
+}
+body{
+    background-color: #a7a5a5;
+}
+*{
+    font-size: 20px;
+}
